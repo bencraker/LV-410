@@ -1,0 +1,237 @@
+@font-face {
+    font-family: "HelveticaNeueRoman";
+    src: url("assets/fonts/HelveticaNeueRoman.otf");
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: "HelveticaNeueRoman", sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    text-align: left;
+}
+
+h2 {
+    margin: 0;
+    font-family: orbitron, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    color: goldenrod;
+
+}
+
+#united-americas-flag {
+    width: 320px;
+}
+
+/* HERO SECTION */
+
+#hero {
+    text-align: right;
+    background-image: url("/assets/images/LV-410.jpg");
+    background-size: cover;
+    background-position: center;
+    border-radius: 0 0 100px 100px;
+    height: auto;
+    padding: 0 50px 100px;
+    line-height: 100px;
+    border-bottom: 30px solid goldenrod;
+}
+
+#weyland-yutani-logo {
+    display: block;
+}
+
+h1, .hero-subtext, .hero-pre-title {
+    text-shadow: 10px 10px 20px black;
+}
+
+.hero-pre-title {
+    font-size: 50px;
+    margin: 20px 0 ;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 100px;
+    letter-spacing: -5px;
+    font-weight: 900;
+    font-family: Orbitron, sans-serif;
+    margin: 0;
+}
+
+.hero-subtext {
+    font-family: orbitron, sans-serif;
+    font-size: 60px;
+    letter-spacing: 0px;
+    margin: 0;
+}
+
+
+/* STAT SECTION */
+
+#stat-section {
+    margin: 0 50px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px
+}
+
+.stat-prop {
+    background: goldenrod;
+    padding: 5px 10px;
+    border-radius: 4px;
+    color: rgb(39, 36, 36);
+    font-weight: 100;
+    font-size: 14px;
+    vertical-align: middle;
+    flex:1
+}
+
+.stat {
+    font-weight: 900;
+    font-size: 16px;
+}
+
+/* PAGE SECTIONS */
+
+.page-section {
+    margin: 0 50px;
+    padding: 50px 50px 30px;
+    background: rgb(39, 36, 36);
+    border: 1px solid goldenrod;
+    border-bottom: 20px solid goldenrod;
+    border-radius: 10px;
+    gap: 20px;
+}
+
+
+/* ABOUT SECTION */
+
+#about {
+    display: flex;
+    flex-direction: column;
+}
+
+.about-img {
+    width: 100%;
+    border-radius: 4px;
+    margin: 0;
+    background-color: aquamarine;
+}
+
+
+/* ACTIVITIES SECTION */
+
+#activities {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: start;
+}
+
+.activity-card {
+    background: linear-gradient(goldenrod, transparent);
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.activity-img {
+    width: 100%;
+    border-radius: 4px;
+}
+
+.book-now-btn {
+    margin-top: 20px;
+    background: goldenrod;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 100px;
+    color: rgb(39, 36, 36);
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.book-now-btn:hover {
+    color: goldenrod;
+    background: rgb(39, 36, 36);
+    text-decoration: underline;
+}
+
+/* PUBLIC SERVICE ANNOUNCMENT SECTION */
+
+#public-service-section {
+    background: goldenrod;
+    color: rgb(39, 36, 36);
+    font-family: orbitron, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    border: none;
+    padding-bottom: 30px;
+}
+
+#public-service-section h2 {
+    color: rgb(39, 36, 36);
+    font-weight: 900;
+}
+
+/* TOUR GUIDE SECTION */
+
+.tour-guide-name {
+    font-family: Orbitron, sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+    color: white;
+    margin: 20px 0 ;
+    line-height: 0.7;
+}
+
+.tour-guide-id {
+    font-size: 18px;
+    font-weight: 200;
+    color: grey;
+}
+
+.tour-guide-img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.quote {
+    text-align: right;
+    margin-top: 10px ;
+    font-style: italic;
+    color: grey;
+}
+
+
+/* SEE YOU SOON SECTION */
+
+#soon {
+    background: goldenrod;
+    text-align: center;
+    color: rgb(39, 36, 36);
+    margin: 0;
+    padding: 50px;
+    font-size: 50px;
+    font-family: orbitron, sans-serif;
+    font-weight: 900;
+}
+
+
+/* FOOTER */
+#footer {
+    padding-top: 50px; 
+    text-align: center;
+    color: grey;
+}
+
+#footer #weyland-yutani-logo {
+    margin: 0 auto;
+}
