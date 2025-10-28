@@ -1,4 +1,4 @@
-**LV-410 (Jackson Star Mining Colony) Website Project**  
+# LV-410 (Jackson Star Mining Colony) Website Project  
 My first solo project to create a simple website as part of my Scrimba Frontend Developer course.  
 
 **About**  
@@ -13,19 +13,19 @@ The rules stated we had to:
 - Build the site from scratch.
 - Make use of (Classes, Flexbox, Background Image, Color Palletes)
   
-the Stretch Goals were to:  
+The Stretch Goals were to:  
 - Select your own destination.
 - Use a different color pallette than the one given.
 - Use a google font.
 - Utilise :hover somewhere.
 - Add a whole new section.
   
-**My Thoughts**  
-I went on an bit of tangent and probably did more than i needed to0, but i really enhoyed it and am finding that what i am learning is sinking in.
+# My Thoughts  
+I went on an bit of tangent and probably did more than i needed too, but i really enhoyed it and am finding that what i am learning is sinking in.
 
-**Built With**
+# Built With  
 - HTML
 - CSS
   
-**Take a look**  
-https://incomparable-syrniki-a005fb.netlify.app/
+# Live Demo  
+[Check it out here](https://incomparable-syrniki-a005fb.netlify.app/)
