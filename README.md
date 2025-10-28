@@ -1,31 +1,32 @@
 # LV-410 (Jackson Star Mining Colony) Website Project  
-My first solo project to create a simple website as part of my Scrimba Frontend Developer course.  
+
+My first solo project to create a simple website as part of the Scrimba Frontend Developer course.  
 
 **About**  
-The aim of this task was to independently build a website to showcase our hometown or a place that we are interested in using the things we had leant from the previous lessons and courses. Again, I went with a movie theme and created a website for the Jackson Star Minining Colony on LV-410.
+The goal of this project was to independently build a website showcasing a place of interest using the skills learned in previous lessons. I chose a movie theme and created a site for the Jackson Star Mining Colony on LV-410.
 
-The brief of the project was to create a site that had 3 sections:  
-1. Hero (with a background image, heading and a subheading).
-2. Activities section (with a title, 3 columns each with an image, heading and a paragraph of text).
-3. Tourist guide section. 
-  
-The rules stated we had to:  
-- Build the site from scratch.
-- Make use of (Classes, Flexbox, Background Image, Color Palletes)
-  
-The Stretch Goals were to:  
-- Select your own destination.
-- Use a different color pallette than the one given.
-- Use a google font.
-- Utilise :hover somewhere.
-- Add a whole new section.
-  
-# My Thoughts  
-I went on an bit of tangent and probably did more than i needed too, but i really enhoyed it and am finding that what i am learning is sinking in.
+The project brief required a site with 3 sections:  
+1. **Hero** – background image, heading, and subheading  
+2. **Activities** – title, 3 columns each with an image, heading, and paragraph  
+3. **Tourist Guide**  
+
+Requirements included:  
+- Build the site from scratch  
+- Use classes, Flexbox, background images, and colour palettes  
+
+**Stretch Goals**  
+- Select your own destination  
+- Use a custom colour palette  
+- Use a Google font  
+- Apply `:hover` effects  
+- Add an additional section  
+
+**My Thoughts**  
+I went a bit off-tangent and probably did more than required, but I really enjoyed it and feel like what I’m learning is sinking in.  
 
 # Built With  
-- HTML
-- CSS
-  
+- HTML  
+- CSS  
+
 # Live Demo  
 [Check it out here](https://incomparable-syrniki-a005fb.netlify.app/)
