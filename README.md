@@ -1,4 +1,4 @@
-# LV-410 (Jackson Star Mining Colony) Website Project  
+# Jackson Star Mining Colony Website  
 
 My first solo project to create a simple website as part of the Scrimba Frontend Developer course.  
 
@@ -21,12 +21,17 @@ Requirements included:
 - Apply `:hover` effects  
 - Add an additional section  
 
-**My Thoughts**  
+## My Thoughts 
 I went a bit off-tangent and probably did more than required, but I really enjoyed it and feel like what I’m learning is sinking in.  
-
-# Built With  
+  
+## Course Details
+**Course:** Scrimba Frontend Path  
+**Module:** Web dev basics  
+**Unit:** Solo Project: Hometown Homepage
+  
+## Built With  
 - HTML  
 - CSS  
 
-# Live Demo  
+## Live Demo  
 [Check it out here](https://incomparable-syrniki-a005fb.netlify.app/)
